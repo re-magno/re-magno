@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renata</h1>
-<h3 align="center">A passionate backend developer, learning something new every day.</h3>
+<h3 align="center">A passionate developer, learning something new every day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=re-magno&label=Profile%20views&color=0e75b6&style=flat" alt="re-magno" /> </p>
 
